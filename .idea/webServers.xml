@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="603dce43-677d-4ccf-992c-ac76056ab13d" name="root@connect.cqa1.seetacloud.com">
+        <fileTransfer rootFolder="/root/autodl-tmp" accessType="SFTP" host="connect.cqa1.seetacloud.com" port="52561" sshConfigId="c8a91c68-3242-4c59-af85-7b1d24aed252" sshConfig="root@connect.cqa1.seetacloud.com:52561 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
